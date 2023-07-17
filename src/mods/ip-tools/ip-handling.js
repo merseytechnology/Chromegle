@@ -3,9 +3,9 @@ class IPGrabberManager extends Module {
     ENABLE_TAG = "Show Chat-Info";
     DISABLE_TAG = "Hide Chat-Info";
     GEO_MAPPINGS = {
-        country: "Country",
-        region: "Region",
         city: "City",
+        region: "Region",
+        country: "Country",
         organization: "Provider"
     }
 
